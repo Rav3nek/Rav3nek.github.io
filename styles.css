@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    font-family: MinecraftFont;
+    color: white;
+    font-size: 70px;
+    text-shadow: 0 5px black;
+}
+@font-face {
+    font-family: MinecraftFont;
+    src: url(MinecraftTen-VGORe.ttf);
+  }
